@@ -1,3 +1,5 @@
 export const environment = {
-  production: true
+  production: true,
+  book: '/api/book',
+  category: '/api/category'
 };
